@@ -1,4 +1,4 @@
-# Node-Homework
+# MySQL-Homework
 
 ## Display available products (stock_quantity > 0)
 
