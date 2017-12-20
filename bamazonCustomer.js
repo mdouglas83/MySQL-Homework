@@ -39,7 +39,6 @@ function showProducts(min) {
     		rows.push(tmp);
 		}
     	console.log();
-        console.log("\x1b[36m%s\x1b[0m\n", sql);
 		for (l = 0; l < rows.length; l++) {
 			var tmp = " ";
 			for (m = 0; m < cols.length; m++) {
